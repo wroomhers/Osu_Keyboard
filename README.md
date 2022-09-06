@@ -2,8 +2,8 @@
 A keyboard for osu with 2 switches and 4 functions
 
 # Materials
- Arduino Leonardo or Pro Mini (Because they have ATmegaXU4 microprocessor, this microprocessor can be used as keyboard)
-  2 x WS2812B led
+ Arduino Leonardo or Pro Mini (Because they have ATmegaXU4 microprocessor, this microprocessor can be used as keyboard) \n
+  2 x WS2812B led \n
   
 # Instructions
   First of all if you using Arduino Leonardo cut the pins. Box is too small for its pins.
